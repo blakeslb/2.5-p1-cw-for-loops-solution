@@ -20,3 +20,5 @@ console.log('Count down from 100:')
 
 
 // 7. Write a function that takes in a number and prints the multiplication table of that number(multiply the number by 0 - 10).
+
+//Done!
